@@ -1,0 +1,194 @@
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\roslyn\csc.exe
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\roslyn\System.Collections.Immutable.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\roslyn\System.Reflection.Metadata.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\roslyn\vbc.exe
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\roslyn\VBCSCompiler.exe
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\roslyn\VBCSCompiler.exe.config
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\ECommerce.dll.config
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\ECommerce.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\ECommerce.pdb
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\Antlr3.Runtime.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\EntityFramework.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\EntityFramework.SqlServer.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\Microsoft.AspNet.Identity.Core.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\Microsoft.Owin.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\Microsoft.Owin.Security.Cookies.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\Microsoft.Owin.Security.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\Microsoft.Owin.Security.Facebook.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\Microsoft.Owin.Security.Google.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\Microsoft.Owin.Security.OAuth.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\Microsoft.Owin.Security.Twitter.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\Microsoft.Web.Infrastructure.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\Newtonsoft.Json.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\Owin.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\System.Net.Http.Formatting.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\System.Web.Helpers.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\System.Web.Http.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\System.Web.Http.WebHost.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\System.Web.Mvc.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\System.Web.Optimization.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\System.Web.Razor.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\System.Web.WebPages.Deployment.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\System.Web.WebPages.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\System.Web.WebPages.Razor.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\WebGrease.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\System.Web.Helpers.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\System.Web.Mvc.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\System.Web.Optimization.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\System.Web.Razor.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\System.Web.WebPages.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\System.Web.WebPages.Deployment.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\System.Web.WebPages.Razor.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\Antlr3.Runtime.pdb
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\Newtonsoft.Json.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\System.Net.Http.Formatting.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\System.Web.Http.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\System.Web.Http.WebHost.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\EntityFramework.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\EntityFramework.SqlServer.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\Microsoft.AspNet.Identity.Core.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\Microsoft.Owin.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\Microsoft.Owin.Security.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\Microsoft.Owin.Security.Facebook.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\Microsoft.Owin.Security.Cookies.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\Microsoft.Owin.Security.OAuth.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\Microsoft.Owin.Security.Google.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\Microsoft.Owin.Security.Twitter.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\es\System.Web.Helpers.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\es\System.Web.Mvc.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\es\System.Web.Optimization.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\es\System.Web.Razor.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\es\System.Web.WebPages.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\es\System.Web.WebPages.Deployment.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\es\System.Web.WebPages.Razor.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\es\System.Net.Http.Formatting.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\es\System.Web.Http.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\es\System.Web.Http.WebHost.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\es\EntityFramework.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\es\EntityFramework.SqlServer.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\es\Microsoft.Owin.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\es\Microsoft.Owin.Security.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\es\Microsoft.Owin.Security.Google.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\obj\Debug\ECommerce.csprojResolveAssemblyReference.cache
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\obj\Debug\ECommerce.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\Eccommerce CARPETA\ECommerce\ECommerce\obj\Debug\ECommerce.pdb
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\roslyn\csc.exe
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\roslyn\System.Collections.Immutable.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\roslyn\System.Reflection.Metadata.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\roslyn\vbc.exe
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\roslyn\VBCSCompiler.exe
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\roslyn\VBCSCompiler.exe.config
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\ECommerce.dll.config
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\ECommerce.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\ECommerce.pdb
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\Antlr3.Runtime.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\EntityFramework.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\EntityFramework.SqlServer.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\Microsoft.AspNet.Identity.Core.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\Microsoft.Owin.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\Microsoft.Owin.Security.Cookies.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\Microsoft.Owin.Security.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\Microsoft.Owin.Security.Facebook.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\Microsoft.Owin.Security.Google.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\Microsoft.Owin.Security.OAuth.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\Microsoft.Owin.Security.Twitter.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\Microsoft.Web.Infrastructure.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\Newtonsoft.Json.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\Owin.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\System.Net.Http.Formatting.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\System.Web.Helpers.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\System.Web.Http.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\System.Web.Http.WebHost.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\System.Web.Mvc.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\System.Web.Optimization.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\System.Web.Razor.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\System.Web.WebPages.Deployment.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\System.Web.WebPages.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\System.Web.WebPages.Razor.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\WebGrease.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\System.Web.Helpers.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\System.Web.Mvc.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\System.Web.Optimization.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\System.Web.Razor.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\System.Web.WebPages.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\System.Web.WebPages.Deployment.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\System.Web.WebPages.Razor.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\Antlr3.Runtime.pdb
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\Newtonsoft.Json.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\System.Net.Http.Formatting.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\System.Web.Http.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\System.Web.Http.WebHost.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\EntityFramework.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\EntityFramework.SqlServer.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\Microsoft.AspNet.Identity.Core.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\Microsoft.Owin.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\Microsoft.Owin.Security.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\Microsoft.Owin.Security.Facebook.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\Microsoft.Owin.Security.Cookies.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\Microsoft.Owin.Security.OAuth.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\Microsoft.Owin.Security.Google.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\Microsoft.Owin.Security.Twitter.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\es\System.Web.Helpers.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\es\System.Web.Mvc.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\es\System.Web.Optimization.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\es\System.Web.Razor.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\es\System.Web.WebPages.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\es\System.Web.WebPages.Deployment.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\es\System.Web.WebPages.Razor.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\es\System.Net.Http.Formatting.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\es\System.Web.Http.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\es\System.Web.Http.WebHost.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\es\EntityFramework.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\es\EntityFramework.SqlServer.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\es\Microsoft.Owin.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\es\Microsoft.Owin.Security.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\es\Microsoft.Owin.Security.Google.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\obj\Debug\ECommerce.csprojResolveAssemblyReference.cache
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\obj\Debug\ECommerce.dll
+G:\CURSOS_2017_1\Xamarin\CURSO MVC ECOMMERCE\ECommerce\ECommerce\ECommerce\obj\Debug\ECommerce.pdb
